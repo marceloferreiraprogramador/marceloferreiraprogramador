@@ -1,15 +1,18 @@
 ### Olá eu sou o Marcelo Ferreira
 
+#### Contato 
+
 [![BLOG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/marcelo-ferreira-a2a54ba2/)
 
+#### Historico  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloferreiraprogramador&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloferreiraprogramador&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## tecnologias 
+#### tecnologias 
 
 <div style="display=inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
